@@ -3,7 +3,7 @@
 <p align="center">
 Esse programa é uma calculadora de dois números, simples, em C.
 O programa apresenta um menu em loop, com 5 opções: 4 operações básicas e saída.
-Se o usuario selecionar opção diferente das válidas, o programa informa e volta ao menu.
+Se o usuário entrar com uma opção diferente das válidas, o programa informa e volta ao menu.
 </p>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=build&message=passing&color=4ac41c&style=flat"/>
